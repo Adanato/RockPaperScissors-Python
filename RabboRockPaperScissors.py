@@ -2,6 +2,7 @@
 import random
 #User only has 5 chances before Rabbo the Rat terminates their lifespan.
 Fail = 0
+Games = 0
 
 #Offers the player the choice to keep playing or quit the game.
 def PlayAgain():
